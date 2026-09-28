@@ -1,4 +1,7 @@
 # 🤖 Student Score Predictor
+## 📸 Project Preview
+
+![Student Score Predictor](project-screenshot.png)
 
 A Machine Learning web application that predicts a student's final score based on study hours, attendance, sleep hours, and previous academic performance.
 
