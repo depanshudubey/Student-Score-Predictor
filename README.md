@@ -1,4 +1,7 @@
 # 🤖 Student Score Predictor
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Flask](https://img.shields.io/badge/Flask-Web_App-black)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Linear%20Regression-green)
 ## 📸 Project Preview
 
 ![Student Score Predictor](project-screenshot.png)
